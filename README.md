@@ -18,7 +18,7 @@ Prerequisites:
 ## Setup:
 Clone the repository:
 
-    git clone https://github.com/your-username/job-api.git
+    git clone https://github.com/your-username/demo-job.git
 
 Build the project:
 
